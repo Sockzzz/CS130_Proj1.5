@@ -1,0 +1,9 @@
+# ninja log v5
+0	474	1657058011749812999	CMakeFiles/ray_tracer.dir/flat_shader.cpp.o	199b9556e340c4e4
+2	511	1657058011790086278	CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o	eb4f124ced13ebc8
+0	476	1657058011755558146	CMakeFiles/ray_tracer.dir/camera.cpp.o	2ce59c4d650d29b0
+0	486	1657058011765785579	CMakeFiles/ray_tracer.dir/main.cpp.o	34ace47c2fcf16ce
+0	521	1657058011800610791	CMakeFiles/ray_tracer.dir/hierarchy.cpp.o	38f480ef3468b799
+1	478	1657058011757862705	CMakeFiles/ray_tracer.dir/phong_shader.cpp.o	501137bc39891afa
+1	512	1657058011791492847	CMakeFiles/ray_tracer.dir/plane.cpp.o	e39eb679127642d5
+2	520	1657058011799960215	CMakeFiles/ray_tracer.dir/render_world.cpp.o	4fe66452269a9ca7
