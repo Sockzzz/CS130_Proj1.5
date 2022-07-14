@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy"
+CMAKE_SOURCE_DIR = "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ray_tracer.dir/depend.make
@@ -72,184 +72,184 @@ include CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/main.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/main.cpp.o: ../main.cpp
 CMakeFiles/ray_tracer.dir/main.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ray_tracer.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/main.cpp.o -MF CMakeFiles/ray_tracer.dir/main.cpp.o.d -o CMakeFiles/ray_tracer.dir/main.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ray_tracer.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/main.cpp.o -MF CMakeFiles/ray_tracer.dir/main.cpp.o.d -o CMakeFiles/ray_tracer.dir/main.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/main.cpp"
 
 CMakeFiles/ray_tracer.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/main.cpp" > CMakeFiles/ray_tracer.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/main.cpp" > CMakeFiles/ray_tracer.dir/main.cpp.i
 
 CMakeFiles/ray_tracer.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/main.cpp" -o CMakeFiles/ray_tracer.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/main.cpp" -o CMakeFiles/ray_tracer.dir/main.cpp.s
 
 CMakeFiles/ray_tracer.dir/camera.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/camera.cpp.o: ../camera.cpp
 CMakeFiles/ray_tracer.dir/camera.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ray_tracer.dir/camera.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/camera.cpp.o -MF CMakeFiles/ray_tracer.dir/camera.cpp.o.d -o CMakeFiles/ray_tracer.dir/camera.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/camera.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ray_tracer.dir/camera.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/camera.cpp.o -MF CMakeFiles/ray_tracer.dir/camera.cpp.o.d -o CMakeFiles/ray_tracer.dir/camera.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/camera.cpp"
 
 CMakeFiles/ray_tracer.dir/camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/camera.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/camera.cpp" > CMakeFiles/ray_tracer.dir/camera.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/camera.cpp" > CMakeFiles/ray_tracer.dir/camera.cpp.i
 
 CMakeFiles/ray_tracer.dir/camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/camera.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/camera.cpp" -o CMakeFiles/ray_tracer.dir/camera.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/camera.cpp" -o CMakeFiles/ray_tracer.dir/camera.cpp.s
 
 CMakeFiles/ray_tracer.dir/hierarchy.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/hierarchy.cpp.o: ../hierarchy.cpp
 CMakeFiles/ray_tracer.dir/hierarchy.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ray_tracer.dir/hierarchy.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/hierarchy.cpp.o -MF CMakeFiles/ray_tracer.dir/hierarchy.cpp.o.d -o CMakeFiles/ray_tracer.dir/hierarchy.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/hierarchy.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ray_tracer.dir/hierarchy.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/hierarchy.cpp.o -MF CMakeFiles/ray_tracer.dir/hierarchy.cpp.o.d -o CMakeFiles/ray_tracer.dir/hierarchy.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/hierarchy.cpp"
 
 CMakeFiles/ray_tracer.dir/hierarchy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/hierarchy.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/hierarchy.cpp" > CMakeFiles/ray_tracer.dir/hierarchy.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/hierarchy.cpp" > CMakeFiles/ray_tracer.dir/hierarchy.cpp.i
 
 CMakeFiles/ray_tracer.dir/hierarchy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/hierarchy.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/hierarchy.cpp" -o CMakeFiles/ray_tracer.dir/hierarchy.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/hierarchy.cpp" -o CMakeFiles/ray_tracer.dir/hierarchy.cpp.s
 
 CMakeFiles/ray_tracer.dir/dump_png.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/dump_png.cpp.o: ../dump_png.cpp
 CMakeFiles/ray_tracer.dir/dump_png.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ray_tracer.dir/dump_png.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/dump_png.cpp.o -MF CMakeFiles/ray_tracer.dir/dump_png.cpp.o.d -o CMakeFiles/ray_tracer.dir/dump_png.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/dump_png.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ray_tracer.dir/dump_png.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/dump_png.cpp.o -MF CMakeFiles/ray_tracer.dir/dump_png.cpp.o.d -o CMakeFiles/ray_tracer.dir/dump_png.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/dump_png.cpp"
 
 CMakeFiles/ray_tracer.dir/dump_png.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/dump_png.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/dump_png.cpp" > CMakeFiles/ray_tracer.dir/dump_png.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/dump_png.cpp" > CMakeFiles/ray_tracer.dir/dump_png.cpp.i
 
 CMakeFiles/ray_tracer.dir/dump_png.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/dump_png.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/dump_png.cpp" -o CMakeFiles/ray_tracer.dir/dump_png.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/dump_png.cpp" -o CMakeFiles/ray_tracer.dir/dump_png.cpp.s
 
 CMakeFiles/ray_tracer.dir/flat_shader.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/flat_shader.cpp.o: ../flat_shader.cpp
 CMakeFiles/ray_tracer.dir/flat_shader.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ray_tracer.dir/flat_shader.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/flat_shader.cpp.o -MF CMakeFiles/ray_tracer.dir/flat_shader.cpp.o.d -o CMakeFiles/ray_tracer.dir/flat_shader.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/flat_shader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ray_tracer.dir/flat_shader.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/flat_shader.cpp.o -MF CMakeFiles/ray_tracer.dir/flat_shader.cpp.o.d -o CMakeFiles/ray_tracer.dir/flat_shader.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/flat_shader.cpp"
 
 CMakeFiles/ray_tracer.dir/flat_shader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/flat_shader.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/flat_shader.cpp" > CMakeFiles/ray_tracer.dir/flat_shader.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/flat_shader.cpp" > CMakeFiles/ray_tracer.dir/flat_shader.cpp.i
 
 CMakeFiles/ray_tracer.dir/flat_shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/flat_shader.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/flat_shader.cpp" -o CMakeFiles/ray_tracer.dir/flat_shader.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/flat_shader.cpp" -o CMakeFiles/ray_tracer.dir/flat_shader.cpp.s
 
 CMakeFiles/ray_tracer.dir/parse.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/parse.cpp.o: ../parse.cpp
 CMakeFiles/ray_tracer.dir/parse.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ray_tracer.dir/parse.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/parse.cpp.o -MF CMakeFiles/ray_tracer.dir/parse.cpp.o.d -o CMakeFiles/ray_tracer.dir/parse.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/parse.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ray_tracer.dir/parse.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/parse.cpp.o -MF CMakeFiles/ray_tracer.dir/parse.cpp.o.d -o CMakeFiles/ray_tracer.dir/parse.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/parse.cpp"
 
 CMakeFiles/ray_tracer.dir/parse.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/parse.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/parse.cpp" > CMakeFiles/ray_tracer.dir/parse.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/parse.cpp" > CMakeFiles/ray_tracer.dir/parse.cpp.i
 
 CMakeFiles/ray_tracer.dir/parse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/parse.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/parse.cpp" -o CMakeFiles/ray_tracer.dir/parse.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/parse.cpp" -o CMakeFiles/ray_tracer.dir/parse.cpp.s
 
 CMakeFiles/ray_tracer.dir/phong_shader.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/phong_shader.cpp.o: ../phong_shader.cpp
 CMakeFiles/ray_tracer.dir/phong_shader.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ray_tracer.dir/phong_shader.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/phong_shader.cpp.o -MF CMakeFiles/ray_tracer.dir/phong_shader.cpp.o.d -o CMakeFiles/ray_tracer.dir/phong_shader.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/phong_shader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ray_tracer.dir/phong_shader.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/phong_shader.cpp.o -MF CMakeFiles/ray_tracer.dir/phong_shader.cpp.o.d -o CMakeFiles/ray_tracer.dir/phong_shader.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/phong_shader.cpp"
 
 CMakeFiles/ray_tracer.dir/phong_shader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/phong_shader.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/phong_shader.cpp" > CMakeFiles/ray_tracer.dir/phong_shader.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/phong_shader.cpp" > CMakeFiles/ray_tracer.dir/phong_shader.cpp.i
 
 CMakeFiles/ray_tracer.dir/phong_shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/phong_shader.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/phong_shader.cpp" -o CMakeFiles/ray_tracer.dir/phong_shader.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/phong_shader.cpp" -o CMakeFiles/ray_tracer.dir/phong_shader.cpp.s
 
 CMakeFiles/ray_tracer.dir/plane.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/plane.cpp.o: ../plane.cpp
 CMakeFiles/ray_tracer.dir/plane.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ray_tracer.dir/plane.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/plane.cpp.o -MF CMakeFiles/ray_tracer.dir/plane.cpp.o.d -o CMakeFiles/ray_tracer.dir/plane.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/plane.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ray_tracer.dir/plane.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/plane.cpp.o -MF CMakeFiles/ray_tracer.dir/plane.cpp.o.d -o CMakeFiles/ray_tracer.dir/plane.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/plane.cpp"
 
 CMakeFiles/ray_tracer.dir/plane.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/plane.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/plane.cpp" > CMakeFiles/ray_tracer.dir/plane.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/plane.cpp" > CMakeFiles/ray_tracer.dir/plane.cpp.i
 
 CMakeFiles/ray_tracer.dir/plane.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/plane.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/plane.cpp" -o CMakeFiles/ray_tracer.dir/plane.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/plane.cpp" -o CMakeFiles/ray_tracer.dir/plane.cpp.s
 
 CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o: ../reflective_shader.cpp
 CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o -MF CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o.d -o CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/reflective_shader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o -MF CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o.d -o CMakeFiles/ray_tracer.dir/reflective_shader.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/reflective_shader.cpp"
 
 CMakeFiles/ray_tracer.dir/reflective_shader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/reflective_shader.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/reflective_shader.cpp" > CMakeFiles/ray_tracer.dir/reflective_shader.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/reflective_shader.cpp" > CMakeFiles/ray_tracer.dir/reflective_shader.cpp.i
 
 CMakeFiles/ray_tracer.dir/reflective_shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/reflective_shader.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/reflective_shader.cpp" -o CMakeFiles/ray_tracer.dir/reflective_shader.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/reflective_shader.cpp" -o CMakeFiles/ray_tracer.dir/reflective_shader.cpp.s
 
 CMakeFiles/ray_tracer.dir/render_world.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/render_world.cpp.o: ../render_world.cpp
 CMakeFiles/ray_tracer.dir/render_world.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ray_tracer.dir/render_world.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/render_world.cpp.o -MF CMakeFiles/ray_tracer.dir/render_world.cpp.o.d -o CMakeFiles/ray_tracer.dir/render_world.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/render_world.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ray_tracer.dir/render_world.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/render_world.cpp.o -MF CMakeFiles/ray_tracer.dir/render_world.cpp.o.d -o CMakeFiles/ray_tracer.dir/render_world.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/render_world.cpp"
 
 CMakeFiles/ray_tracer.dir/render_world.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/render_world.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/render_world.cpp" > CMakeFiles/ray_tracer.dir/render_world.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/render_world.cpp" > CMakeFiles/ray_tracer.dir/render_world.cpp.i
 
 CMakeFiles/ray_tracer.dir/render_world.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/render_world.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/render_world.cpp" -o CMakeFiles/ray_tracer.dir/render_world.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/render_world.cpp" -o CMakeFiles/ray_tracer.dir/render_world.cpp.s
 
 CMakeFiles/ray_tracer.dir/sphere.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/sphere.cpp.o: ../sphere.cpp
 CMakeFiles/ray_tracer.dir/sphere.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ray_tracer.dir/sphere.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/sphere.cpp.o -MF CMakeFiles/ray_tracer.dir/sphere.cpp.o.d -o CMakeFiles/ray_tracer.dir/sphere.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/sphere.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ray_tracer.dir/sphere.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/sphere.cpp.o -MF CMakeFiles/ray_tracer.dir/sphere.cpp.o.d -o CMakeFiles/ray_tracer.dir/sphere.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/sphere.cpp"
 
 CMakeFiles/ray_tracer.dir/sphere.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/sphere.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/sphere.cpp" > CMakeFiles/ray_tracer.dir/sphere.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/sphere.cpp" > CMakeFiles/ray_tracer.dir/sphere.cpp.i
 
 CMakeFiles/ray_tracer.dir/sphere.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/sphere.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/sphere.cpp" -o CMakeFiles/ray_tracer.dir/sphere.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/sphere.cpp" -o CMakeFiles/ray_tracer.dir/sphere.cpp.s
 
 CMakeFiles/ray_tracer.dir/box.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/box.cpp.o: ../box.cpp
 CMakeFiles/ray_tracer.dir/box.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ray_tracer.dir/box.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/box.cpp.o -MF CMakeFiles/ray_tracer.dir/box.cpp.o.d -o CMakeFiles/ray_tracer.dir/box.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/box.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ray_tracer.dir/box.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/box.cpp.o -MF CMakeFiles/ray_tracer.dir/box.cpp.o.d -o CMakeFiles/ray_tracer.dir/box.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/box.cpp"
 
 CMakeFiles/ray_tracer.dir/box.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/box.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/box.cpp" > CMakeFiles/ray_tracer.dir/box.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/box.cpp" > CMakeFiles/ray_tracer.dir/box.cpp.i
 
 CMakeFiles/ray_tracer.dir/box.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/box.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/box.cpp" -o CMakeFiles/ray_tracer.dir/box.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/box.cpp" -o CMakeFiles/ray_tracer.dir/box.cpp.s
 
 CMakeFiles/ray_tracer.dir/mesh.cpp.o: CMakeFiles/ray_tracer.dir/flags.make
 CMakeFiles/ray_tracer.dir/mesh.cpp.o: ../mesh.cpp
 CMakeFiles/ray_tracer.dir/mesh.cpp.o: CMakeFiles/ray_tracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ray_tracer.dir/mesh.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/mesh.cpp.o -MF CMakeFiles/ray_tracer.dir/mesh.cpp.o.d -o CMakeFiles/ray_tracer.dir/mesh.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/mesh.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ray_tracer.dir/mesh.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ray_tracer.dir/mesh.cpp.o -MF CMakeFiles/ray_tracer.dir/mesh.cpp.o.d -o CMakeFiles/ray_tracer.dir/mesh.cpp.o -c "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/mesh.cpp"
 
 CMakeFiles/ray_tracer.dir/mesh.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ray_tracer.dir/mesh.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/mesh.cpp" > CMakeFiles/ray_tracer.dir/mesh.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/mesh.cpp" > CMakeFiles/ray_tracer.dir/mesh.cpp.i
 
 CMakeFiles/ray_tracer.dir/mesh.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ray_tracer.dir/mesh.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/mesh.cpp" -o CMakeFiles/ray_tracer.dir/mesh.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/mesh.cpp" -o CMakeFiles/ray_tracer.dir/mesh.cpp.s
 
 # Object files for target ray_tracer
 ray_tracer_OBJECTS = \
@@ -285,7 +285,7 @@ ray_tracer: CMakeFiles/ray_tracer.dir/box.cpp.o
 ray_tracer: CMakeFiles/ray_tracer.dir/mesh.cpp.o
 ray_tracer: CMakeFiles/ray_tracer.dir/build.make
 ray_tracer: CMakeFiles/ray_tracer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable ray_tracer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable ray_tracer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ray_tracer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -297,6 +297,6 @@ CMakeFiles/ray_tracer.dir/clean:
 .PHONY : CMakeFiles/ray_tracer.dir/clean
 
 CMakeFiles/ray_tracer.dir/depend:
-	cd "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy" "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy" "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug" "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug" "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/CMakeFiles/ray_tracer.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy" "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy" "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug" "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug" "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/CMakeFiles/ray_tracer.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ray_tracer.dir/depend
 

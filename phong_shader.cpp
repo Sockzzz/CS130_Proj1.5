@@ -45,6 +45,7 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
             tempC[j] = diffuse + specular;
 
         }
+        //testing to make sure my GIT is working
         color = color + tempC;
 
     }

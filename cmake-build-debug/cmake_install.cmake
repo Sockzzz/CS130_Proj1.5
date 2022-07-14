@@ -1,4 +1,4 @@
-# Install script for directory: /Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy
+# Install script for directory: /Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

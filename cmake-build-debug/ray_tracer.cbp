@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug"/>
+				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug"/>
+				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug"/>
+				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ray_tracer">
-				<Option output="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/ray_tracer" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug"/>
+				<Option output="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/ray_tracer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
@@ -51,15 +51,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ray_tracer"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ray_tracer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ray_tracer/fast">
-				<Option output="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug/ray_tracer" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug"/>
+				<Option output="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug/ray_tracer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
@@ -71,83 +71,83 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ray_tracer/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code\ Backups/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 ray_tracer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/box.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/box.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/box.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/box.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/camera.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/camera.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/camera.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/camera.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/dump_png.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/dump_png.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/flat_shader.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/flat_shader.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/flat_shader.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/flat_shader.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/hierarchy.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/hierarchy.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/hierarchy.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/hierarchy.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/main.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/main.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/mesh.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/mesh.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/mesh.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/mesh.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/parse.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/parse.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/phong_shader.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/phong_shader.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/phong_shader.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/phong_shader.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/plane.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/plane.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/plane.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/plane.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/reflective_shader.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/reflective_shader.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/reflective_shader.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/reflective_shader.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/render_world.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/render_world.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/render_world.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/render_world.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/sphere.cpp">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/sphere.cpp">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/sphere.h">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/sphere.h">
 			<Option target="ray_tracer"/>
 		</Unit>
-		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/CMakeLists.txt">
+		<Unit filename="/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

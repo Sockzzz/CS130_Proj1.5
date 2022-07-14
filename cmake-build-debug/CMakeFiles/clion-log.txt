@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy"
 CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
@@ -21,4 +21,4 @@ CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/marshalljones/Desktop/School/Summer/CS130/Code Backups/cs130_project1-master copy/cmake-build-debug
+-- Build files have been written to: /Users/marshalljones/Desktop/School/Summer/CS130/Code/Projects/cs130_project1-master copy/cmake-build-debug
