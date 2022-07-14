@@ -42,7 +42,7 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
 
             double diffuse = k_d[j]*intensity[j]*(std::max(zero, dot(normal,l.normalized())));
             double specular = k_s[j]*intensity[j]* pow(std::max(zero, dot(-v,r)), this->specular_power);
-            tempC[j] = diffuse + specular; //todo, not implemented properly?
+            tempC[j] = diffuse + specular;
 
         }
         color = color + tempC;
