@@ -23,6 +23,7 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
     //blue = ob_color[2];
     color = (world.ambient_color*color_ambient)*world.ambient_intensity;
 
+
     for(int i = 0; i < world.lights.size(); ++i) {
 
         vec3 light_loc = world.lights.at(i)->position;
@@ -37,6 +38,7 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
 
         double zero = 0;
 
+
         vec3 tempC(0,0,0);
         for(int j = 0; j < 3; ++j){
 
@@ -45,6 +47,7 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
             tempC[j] = diffuse + specular;
 
         }
+        //testing to make sure my GIT is working
         color = color + tempC;
 
     }
