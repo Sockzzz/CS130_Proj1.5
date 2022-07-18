@@ -37,8 +37,9 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
 
         Hit found = world.Closest_Intersection(check);
 
-        if (found.object != nullptr && world.enable_shadows) {
-            //std::cout<< "NO O"
+        double lightDistance = SE.magnitude();
+
+        if (found.object != nullptr && found.dist <= lightDistance && world.enable_shadows) {
             continue;
         }
 
