@@ -26,7 +26,23 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
 
     for(int i = 0; i < world.lights.size(); ++i) {
 
+        Ray check;
         vec3 light_loc = world.lights.at(i)->position;
+        vec3 s = light_loc;
+        vec3 e = intersection_point;
+        vec3 SE = (s-e);
+
+        check.endpoint = e;
+        check.direction = SE.normalized();
+
+        Hit found = world.Closest_Intersection(check);
+
+        double lightDistance = SE.magnitude();
+
+        if (found.object != nullptr && found.dist <= lightDistance && world.enable_shadows) {
+            continue;
+        }
+
         vec3 l = light_loc-intersection_point; //switched around
         vec3 intensity = world.lights.at(i)->Emitted_Light(l);
         vec3 v = ray.direction;
@@ -36,20 +52,20 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
         vec3 k_d = this -> color_diffuse;
         vec3 k_s = this -> color_specular;
 
+
         double zero = 0;
 
+        //if we need to check for shadows ->
+        //find the distance from the point to the light source
+        //check if the closest intersection is the light source
 
         vec3 tempC(0,0,0);
         for(int j = 0; j < 3; ++j){
-
             double diffuse = k_d[j]*intensity[j]*(std::max(zero, dot(normal,l.normalized())));
             double specular = k_s[j]*intensity[j]* pow(std::max(zero, dot(-v,r)), this->specular_power);
             tempC[j] = diffuse + specular;
-
         }
-        //testing to make sure my GIT is working
         color = color + tempC;
-
     }
 
     return color;
