@@ -106,7 +106,7 @@ vec3 Render_World::Cast_Ray(const Ray& ray,int recursion_depth)
         //calculate this right??
 
         color = mycolor->Shade_Surface(ray, intersect, normal,recursion_depth);
-
+        
     }
     else{
         color.fill(0);

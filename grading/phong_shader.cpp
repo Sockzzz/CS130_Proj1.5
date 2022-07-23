@@ -3,6 +3,7 @@
 #include "phong_shader.h"
 #include "ray.h"
 #include "render_world.h"
+#include "reflective_shader.h"
 
 vec3 Phong_Shader::
 Shade_Surface(const Ray& ray,const vec3& intersection_point,
@@ -22,6 +23,7 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
     //green = ob_color[1];
     //blue = ob_color[2];
     color = (world.ambient_color*color_ambient)*world.ambient_intensity;
+
 
 
     for(int i = 0; i < world.lights.size(); ++i) {
